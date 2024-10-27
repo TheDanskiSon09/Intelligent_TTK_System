@@ -1,0 +1,6 @@
+{
+  "test": {
+    "password": "test",
+    "admin": true
+  }
+}
